@@ -5,3 +5,6 @@
 How can the fractal dimension, a fundamental 3D geometric property, be accurately inferred from 2D projections of flocs? This challenge highlights the inherent loss of information when transitioning from higher-dimensional data to lower-dimensional representations.
 
 ![Rotating Floc Visualization](https://github.com/braydennoh/fractalCNN/blob/main/images/flocrotate.gif)
+
+
+!([https://github.com/braydennoh/fractalCNN/blob/main/images/flocrotate.gif](https://github.com/braydennoh/fractalCNN/blob/main/images/projections.png))
