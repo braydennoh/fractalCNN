@@ -7,4 +7,4 @@ How can the fractal dimension, a fundamental 3D geometric property, be accuratel
 ![Rotating Floc Visualization](https://github.com/braydennoh/fractalCNN/blob/main/images/flocrotate.gif)
 
 
-!([https://github.com/braydennoh/fractalCNN/blob/main/images/flocrotate.gif](https://github.com/braydennoh/fractalCNN/blob/main/images/projections.png))
+![Rotating Floc](https://github.com/braydennoh/fractalCNN/blob/main/images/projections.png)
