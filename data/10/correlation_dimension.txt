@@ -1,0 +1,2 @@
+Parameters: N=1000, a=8.111308307896872e-07
+Correlation dimension (d2_3D): 2.3180
